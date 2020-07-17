@@ -9,3 +9,8 @@ This repository houses various Jupyter notebook projects that follow along with 
 
 ## Installing Jupyter
 
+On Linux Ubuntu, execute the following in terminal:
+
+    sudo snap install jupyter
+
+On Windows, you can use WinPython which includes Jupyter Lab and Jupyter Notebook (https://winpython.github.io/).
